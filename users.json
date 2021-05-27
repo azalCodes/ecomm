@@ -26,5 +26,10 @@
     "email": "fake@fake.com",
     "password": "6077fc76100884681b6346e1ba35d57aac5da56f121edad19b30499d91ba4d534a56faa5990fbdf38f9919fa9f06faa8a87e77745dddd67f1dc42d4740c648a9.0423714a043b1609",
     "id": "45c93e0d"
+  },
+  {
+    "email": "newuser@test.com",
+    "password": "840deca0e382f4e405cdd1a16f0ebd23dda413e09ac96a69c2d198cc2f3befecb721d7ccefb8f7c767139cbcbdd195befce8c1663e38ba4a79cd8a6a0e8fc9b8.8eeb287a700b0f7f",
+    "id": "8eb1761f"
   }
 ]
